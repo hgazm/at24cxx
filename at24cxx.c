@@ -22,6 +22,8 @@
 
 #include "at24cxx.h"
 
+//分支
+
 #ifdef PKG_USING_AT24CXX
 #define AT24CXX_ADDR 0x50                      //A0 A1 A2 connect GND
 
